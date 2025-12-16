@@ -10,6 +10,6 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class painelInteriorDTO {
+public class PainelInteriorDTO {
     private int andar;
 }

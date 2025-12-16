@@ -9,6 +9,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class painelExteriorDTO {
-
+public class PainelExteriorDTO {
+    private int andarOrigem;
+    private String direcaoSolicitada;
 }
